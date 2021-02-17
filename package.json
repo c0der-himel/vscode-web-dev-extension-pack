@@ -1,0 +1,52 @@
+{
+  "name": "vscode-wev-dev-extension-pack",
+  "displayName": "vscode-wev-dev-extension-pack",
+  "description": "VSCode Extension Pack for Web Development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "AdsonCicilioti.yaru-vscode",
+    "alexeyvax.vscode-open-native-terminal",
+    "antfu.icons-carbon",
+    "bierner.color-info",
+    "burkeholland.simple-react-snippets",
+    "CoenraadS.bracket-pair-colorizer",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "formulahendry.terminal",
+    "GitHub.vscode-pull-request-github",
+    "HookyQR.beautify",
+    "jsjlewis96.one-dark-pro-italic-vivid",
+    "meganrogge.template-string-converter",
+    "miguelsolorio.fluent-icons",
+    "mongodb.mongodb-vscode",
+    "mrmlnc.vscode-autoprefixer",
+    "msjsdiag.debugger-for-chrome",
+    "naumovs.color-highlight",
+    "PKief.material-icon-theme",
+    "PKief.material-product-icons",
+    "pkosta2005.heroku-command",
+    "rafamel.subtle-brackets",
+    "ritwickdey.LiveServer",
+    "roerohan.mongo-snippets-for-node-js",
+    "shardulm94.trailing-spaces",
+    "solnurkarim.html-to-css-autocompletion",
+    "sporiley.css-auto-prefix",
+    "streetsidesoftware.code-spell-checker",
+    "Tobermory.es6-string-html",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "voldemortensen.rainbow-tags",
+    "wayou.vscode-todo-highlight",
+    "Zignd.html-css-class-completion",
+    "zitup.classnametocss"
+  ]
+}
