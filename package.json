@@ -49,5 +49,6 @@
     "wayou.vscode-todo-highlight",
     "Zignd.html-css-class-completion",
     "zitup.classnametocss"
-  ]
+  ],
+  "repository": "https://github.com/c0der-himel/vscode-web-dev-extension-pack.git"
 }
