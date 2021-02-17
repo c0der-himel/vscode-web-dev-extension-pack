@@ -3,6 +3,7 @@
   "displayName": "vscode-wev-dev-extension-pack",
   "description": "VSCode Extension Pack for Web Development",
   "publisher": "c0der-himel",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.53.0"
@@ -20,6 +21,7 @@
     "CoenraadS.bracket-pair-colorizer",
     "CoenraadS.bracket-pair-colorizer-2",
     "dbaeumer.vscode-eslint",
+    "davidanson.vscode-markdownlint",
     "esbenp.prettier-vscode",
     "formulahendry.auto-rename-tag",
     "formulahendry.code-runner",
@@ -47,8 +49,12 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "voldemortensen.rainbow-tags",
     "wayou.vscode-todo-highlight",
+    "yzhang.markdown-all-in-one",
     "Zignd.html-css-class-completion",
     "zitup.classnametocss"
   ],
-  "repository": "https://github.com/c0der-himel/vscode-web-dev-extension-pack.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c0der-himel/vscode-web-dev-extension-pack.git"
+  }
 }
