@@ -4,7 +4,7 @@
   "description": "VSCode Extension Pack for Web Development",
   "publisher": "c0der-himel",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.53.0"
   },
