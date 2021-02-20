@@ -1,6 +1,6 @@
 {
-  "name": "vscode-web-dev-extension-pack",
-  "displayName": "Web Dev",
+  "name": "web-dev-extension-pack",
+  "displayName": "Web Dev Extensions",
   "description": "VSCode Extension Pack for Web Development",
   "publisher": "c0der-himel",
   "icon": "icon.png",
