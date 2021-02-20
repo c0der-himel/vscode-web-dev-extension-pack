@@ -10,44 +10,37 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 
 1. Auto Rename Tag
 2. Autoprefixer
-3. Beautify
-4. Better Comments
-5. Bracket Pair Colorizer
-6. Bracket Pair Colorizer 2
-7. Carbon Product Icons
-8. className Completion in CSS
-9. Code Runner
-10. Code Spell Checker
-11. Color Highlight
-12. Color Info
-13. css-auto-prefix
-14. Debugger for Chrome
-15. es6-string-html
-16. ESLint
-17. Fluent Icons
-18. GitHub Pull Requests and Issues
-19. heroku-cli
-20. HTML to CSS autocompletion
-21. IntelliSense for CSS class names in HTML
-22. Live Server
-23. Markdown All in One
-24. markdownlint
-25. Material Icon Theme
-26. Material Product Icons
-27. Mongo Snippets for Node-js
-28. MongoDB for VS Code
-29. Prettier - Code formatter
-30. Rainbow Tags
-31. Simple React Snippets
-32. Subtle Match Brackets
-33. Template String Converter
-34. Terminal
-35. TODO Highlight
-36. Trailing Spaces
-37. Visual Studio IntelliCode
-38. Yaru VS Code Theme
-39. One Dark Pro Italic Vivid
-40. open native terminal
+3. Better Comments
+4. Bracket Pair Colorizer
+5. Bracket Pair Colorizer 2
+6. className Completion in CSS
+7. Code Runner
+8. Code Spell Checker
+9. Color Highlight
+10. css-auto-prefix
+11. Debugger for Chrome
+12. es6-string-html
+13. ESLint
+14. GitHub Pull Requests and Issues
+15. HTML to CSS autocompletion
+16. IntelliSense for CSS class names in HTML
+17. Live Server
+18. Markdown All in One
+19. markdownlint
+20. Material Icon Theme
+21. Mongo Snippets for Node-js
+22. MongoDB for VS Code
+23. Prettier - Code formatter
+24. Rainbow Tags
+25. Simple React Snippets
+26. Subtle Match Brackets
+27. Template String Converter
+28. Terminal
+29. TODO Highlight
+30. Trailing Spaces
+31. Visual Studio IntelliCode
+32. open native terminal
+33. JavaScript (ES6) code snippets
 
 ## Issues & Suggestions
 
