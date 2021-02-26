@@ -2,6 +2,6 @@
 
 Unnecessary extensions removed
 
-## [1.6.0]
+## [1.7.0]
 
 VSCode Web Development Extension Pack

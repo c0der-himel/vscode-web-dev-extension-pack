@@ -19,22 +19,19 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 9. Debugger for Chrome
 10. es6-string-html
 11. ESLint
-12. GitHub Pull Requests and Issues
-13. HTML to CSS autocompletion
-14. IntelliSense for CSS class names in HTML
-15. Live Server
-16. Markdown All in One
-17. markdownlint
-18. Material Icon Theme
-19. Prettier - Code formatter
-20. Rainbow Tags
-21. Subtle Match Brackets
-22. Template String Converter
-23. Terminal
-24. TODO Highlight
-25. Trailing Spaces
-26. Visual Studio IntelliCode
-27. JavaScript (ES6) code snippets
+12. HTML to CSS autocompletion
+13. IntelliSense for CSS class names in HTML
+14. Live Server
+15. Material Icon Theme
+16. Prettier - Code formatter
+17. Rainbow Tags
+18. Subtle Match Brackets
+19. Template String Converter
+20. Terminal
+21. TODO Highlight
+22. Trailing Spaces
+23. Visual Studio IntelliCode
+24. JavaScript (ES6) code snippets
 
 ## Issues & Suggestions
 
