@@ -2,7 +2,7 @@
 
 > VSCode Extension Pack for Web Development
 
-Thanks for checking out my VSCod Web Development extension pack.
+Thanks for checking out my VSCode Web Development extension pack.
 
 If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star rating! →](https://marketplace.visualstudio.com/items?itemName=c0der-himel.vscode-wev-dev-extension-pack&ssr=false#review-details) 😃
 
