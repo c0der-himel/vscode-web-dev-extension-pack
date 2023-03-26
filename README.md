@@ -10,13 +10,13 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 
 1. Auto Rename Tag
 2. Better Comments
-3. Bracket Pair Colorizer 2
+3. Color Info
 4. className Completion in CSS
 5. Code Runner
 6. Code Spell Checker
 7. Color Highlight
 8. css-auto-prefix
-9. Debugger for Chrome
+9. ES7+ React/Redux/React-Native snippets
 10. es6-string-html
 11. ESLint
 12. HTML to CSS autocompletion
@@ -25,9 +25,9 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 15. Material Icon Theme
 16. Prettier - Code formatter
 17. Rainbow Tags
-18. Subtle Match Brackets
+18. Github Themes
 19. Template String Converter
-20. Terminal
+20. GitLens
 21. TODO Highlight
 22. Trailing Spaces
 23. Visual Studio IntelliCode

@@ -1,10 +1,10 @@
 {
-  "name": "vscode-wev-dev-extension-pack",
+  "name": "vscode-web-dev-extension-pack",
   "displayName": "Web Dev",
   "description": "VSCode Extension Pack for Web Development",
   "publisher": "c0der-himel",
   "icon": "icon.png",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "engines": {
     "vscode": "^1.76.2"
   },
@@ -35,7 +35,6 @@
     "sporiley.css-auto-prefix",
     "streetsidesoftware.code-spell-checker",
     "Tobermory.es6-string-html",
-    "VisualStudioExptTeam.vscodeintellicode",
     "voldemortensen.rainbow-tags",
     "wayou.vscode-todo-highlight",
     "Zignd.html-css-class-completion",
