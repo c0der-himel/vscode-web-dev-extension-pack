@@ -32,6 +32,7 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 22. Trailing Spaces
 23. Visual Studio IntelliCode
 24. JavaScript (ES6) code snippets
+25. Inline Fold
 
 ## Issues & Suggestions
 

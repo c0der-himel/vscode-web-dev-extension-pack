@@ -12,6 +12,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "moalamri.inline-fold",
     "editorconfig.editorconfig",
     "eamodio.gitlens",
     "kisstkondoros.vscode-gutter-preview",
