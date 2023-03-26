@@ -1,44 +1,49 @@
 {
-    "name": "vscode-wev-dev-extension-pack",
-    "displayName": "Web Dev",
-    "description": "VSCode Extension Pack for Web Development",
-    "publisher": "c0der-himel",
-    "icon": "icon.png",
-    "version": "1.6.0",
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "aaron-bond.better-comments",
-        "CoenraadS.bracket-pair-colorizer-2",
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "formulahendry.auto-rename-tag",
-        "formulahendry.code-runner",
-        "formulahendry.terminal",
-        "meganrogge.template-string-converter",
-        "msjsdiag.debugger-for-chrome",
-        "naumovs.color-highlight",
-        "PKief.material-icon-theme",
-        "rafamel.subtle-brackets",
-        "ritwickdey.LiveServer",
-        "shardulm94.trailing-spaces",
-        "solnurkarim.html-to-css-autocompletion",
-        "sporiley.css-auto-prefix",
-        "streetsidesoftware.code-spell-checker",
-        "Tobermory.es6-string-html",
-        "VisualStudioExptTeam.vscodeintellicode",
-        "voldemortensen.rainbow-tags",
-        "wayou.vscode-todo-highlight",
-        "Zignd.html-css-class-completion",
-        "zitup.classnametocss",
-        "xabikos.javascriptsnippets"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/c0der-himel/vscode-web-dev-extension-pack.git"
-    }
+  "name": "vscode-wev-dev-extension-pack",
+  "displayName": "Web Dev",
+  "description": "VSCode Extension Pack for Web Development",
+  "publisher": "c0der-himel",
+  "icon": "icon.png",
+  "version": "1.7.0",
+  "engines": {
+    "vscode": "^1.76.2"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.vscodeintellicode-completions",
+    "bierner.color-info",
+    "mikestead.dotenv",
+    "dsznajder.es7-react-js-snippets",
+    "github.github-vscode-theme",
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "meganrogge.template-string-converter",
+    "naumovs.color-highlight",
+    "PKief.material-icon-theme",
+    "ritwickdey.LiveServer",
+    "shardulm94.trailing-spaces",
+    "solnurkarim.html-to-css-autocompletion",
+    "sporiley.css-auto-prefix",
+    "streetsidesoftware.code-spell-checker",
+    "Tobermory.es6-string-html",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "voldemortensen.rainbow-tags",
+    "wayou.vscode-todo-highlight",
+    "Zignd.html-css-class-completion",
+    "zitup.classnametocss",
+    "xabikos.javascriptsnippets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c0der-himel/vscode-web-dev-extension-pack.git"
+  }
 }
