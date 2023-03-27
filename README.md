@@ -33,6 +33,11 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 23. Visual Studio IntelliCode
 24. JavaScript (ES6) code snippets
 25. Inline Fold
+26. Tailwind CSS IntelliSense
+27. EditorConfig for VS Code
+28. Image Preview
+29. IntelliCode Completions
+30. DotENV
 
 ## Issues & Suggestions
 

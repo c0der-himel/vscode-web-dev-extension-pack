@@ -40,7 +40,8 @@
     "wayou.vscode-todo-highlight",
     "Zignd.html-css-class-completion",
     "zitup.classnametocss",
-    "xabikos.javascriptsnippets"
+    "xabikos.javascriptsnippets",
+    "bradlc.vscode-tailwindcss"
   ],
   "repository": {
     "type": "git",

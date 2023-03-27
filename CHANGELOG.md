@@ -1,7 +1,5 @@
 # Change Log
 
-Unnecessary extensions removed
+## [2.1.0]
 
-## [1.7.0]
-
-VSCode Web Development Extension Pack
+Some deprecated extensions removed & some useful extensions added
