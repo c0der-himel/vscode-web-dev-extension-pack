@@ -38,6 +38,7 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 28. Image Preview
 29. IntelliCode Completions
 30. DotENV
+31. Highlight Matching Tag
 
 ## Issues & Suggestions
 

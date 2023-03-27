@@ -41,7 +41,8 @@
     "Zignd.html-css-class-completion",
     "zitup.classnametocss",
     "xabikos.javascriptsnippets",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "vincaslt.highlight-matching-tag"
   ],
   "repository": {
     "type": "git",
