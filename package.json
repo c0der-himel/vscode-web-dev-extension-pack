@@ -42,7 +42,9 @@
     "zitup.classnametocss",
     "xabikos.javascriptsnippets",
     "bradlc.vscode-tailwindcss",
-    "vincaslt.highlight-matching-tag"
+    "vincaslt.highlight-matching-tag",
+    "usernamehw.errorlens",
+    "igorsbitnev.error-gutters"
   ],
   "repository": {
     "type": "git",

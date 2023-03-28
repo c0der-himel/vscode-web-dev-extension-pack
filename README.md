@@ -39,6 +39,8 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 29. IntelliCode Completions
 30. DotENV
 31. Highlight Matching Tag
+32. Error Lens
+33. Error Gutters
 
 ## Issues & Suggestions
 
