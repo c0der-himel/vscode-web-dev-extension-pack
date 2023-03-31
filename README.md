@@ -41,6 +41,8 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 31. Highlight Matching Tag
 32. Error Lens
 33. Error Gutters
+34. Output Colorizer
+35. Git Graph
 
 ## Issues & Suggestions
 

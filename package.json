@@ -44,7 +44,9 @@
     "bradlc.vscode-tailwindcss",
     "vincaslt.highlight-matching-tag",
     "usernamehw.errorlens",
-    "igorsbitnev.error-gutters"
+    "igorsbitnev.error-gutters",
+    "ibm.output-colorizer",
+    "mhutchie.git-graph"
   ],
   "repository": {
     "type": "git",
