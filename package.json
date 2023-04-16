@@ -46,7 +46,8 @@
     "usernamehw.errorlens",
     "igorsbitnev.error-gutters",
     "ibm.output-colorizer",
-    "mhutchie.git-graph"
+    "mhutchie.git-graph",
+    "styled-components.vscode-styled-components"
   ],
   "repository": {
     "type": "git",

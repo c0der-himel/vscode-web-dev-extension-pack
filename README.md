@@ -43,6 +43,7 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 33. Error Gutters
 34. Output Colorizer
 35. Git Graph
+36. VSCode Styled Components
 
 ## Issues & Suggestions
 
