@@ -15,3 +15,7 @@ Added two more useful extensions
 ## [2.5.0]
 
 Added vscode-styled-components extension
+
+## [2.6.0]
+
+Added my newly developed extension for removing console logs from a file 😊

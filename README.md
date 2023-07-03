@@ -8,6 +8,7 @@ If this extension pack helps you out, give me 🌟🌟🌟🌟🌟 [five-star ra
 
 ## Included Extensions
 
+0. Remove Console Log
 1. Auto Rename Tag
 2. Better Comments
 3. Color Info

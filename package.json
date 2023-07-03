@@ -12,6 +12,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "c0der-himel.remove-console-log",
     "moalamri.inline-fold",
     "editorconfig.editorconfig",
     "eamodio.gitlens",
